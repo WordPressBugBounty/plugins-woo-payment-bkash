@@ -65,6 +65,7 @@ class ComposerStaticInit6f1567cb8907bf59187b056ab5a35f54
         'DCoders\\Bkash\\Upgrade\\Upgrades\\V_2_0_0' => __DIR__ . '/../..' . '/includes/Upgrade/Upgrades/V_2_0_0.php',
         'DCoders\\Bkash\\Upgrade\\Upgrades\\V_2_1_0' => __DIR__ . '/../..' . '/includes/Upgrade/Upgrades/V_2_1_0.php',
         'DCoders\\Bkash\\Upgrade\\Upgrades\\V_3_0_0' => __DIR__ . '/../..' . '/includes/Upgrade/Upgrades/V_3_0_0.php',
+        'DCoders\\Bkash\\Upgrade\\Upgrades\\V_3_1_0' => __DIR__ . '/../..' . '/includes/Upgrade/Upgrades/V_3_1_0.php',
     );
 
     public static function getInitializer(ClassLoader $loader)

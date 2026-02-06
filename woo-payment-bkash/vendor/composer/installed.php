@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'kapilpaul/payment-gateway-bkash-for-wc',
-        'pretty_version' => '3.0.1',
-        'version' => '3.0.1.0',
-        'reference' => '180ad395a1f1f851c60e3235ba04f317c5e4342e',
+        'pretty_version' => '3.1.0',
+        'version' => '3.1.0.0',
+        'reference' => 'd61dd3e52654a5d2e77f8a3e31826cc67383ba90',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -20,9 +20,9 @@
             'dev_requirement' => false,
         ),
         'kapilpaul/payment-gateway-bkash-for-wc' => array(
-            'pretty_version' => '3.0.1',
-            'version' => '3.0.1.0',
-            'reference' => '180ad395a1f1f851c60e3235ba04f317c5e4342e',
+            'pretty_version' => '3.1.0',
+            'version' => '3.1.0.0',
+            'reference' => 'd61dd3e52654a5d2e77f8a3e31826cc67383ba90',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

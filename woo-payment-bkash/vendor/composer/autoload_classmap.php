@@ -38,4 +38,5 @@ return array(
     'DCoders\\Bkash\\Upgrade\\Upgrades\\V_2_0_0' => $baseDir . '/includes/Upgrade/Upgrades/V_2_0_0.php',
     'DCoders\\Bkash\\Upgrade\\Upgrades\\V_2_1_0' => $baseDir . '/includes/Upgrade/Upgrades/V_2_1_0.php',
     'DCoders\\Bkash\\Upgrade\\Upgrades\\V_3_0_0' => $baseDir . '/includes/Upgrade/Upgrades/V_3_0_0.php',
+    'DCoders\\Bkash\\Upgrade\\Upgrades\\V_3_1_0' => $baseDir . '/includes/Upgrade/Upgrades/V_3_1_0.php',
 );
