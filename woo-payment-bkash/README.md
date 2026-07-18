@@ -2,10 +2,10 @@
 
 Contributors: [kapilpaul](https://kapilpaul.me)\
 Donate link: https://kapilpaul.me/ \
-Tags: bkash, woocommerce payment, woocommerce gateway, woocommerce pgw, mobile banking, bangladesh, bdt, bkash payment, bkash checkout, bkash gateway, digital payment, ecommerce bangladesh, online payment, payment integration, woocommerc
+Tags: bkash, woocommerce payment, bkash payment, bkash checkout, bkash gateway
 \
 Requires at least: 4.0\
-Tested up to: 6.8.3\
+Tested up to: 7.0.1\
 Stable tag: trunk\
 Requires PHP: 5.6\
 License: GPLv2 or later\
